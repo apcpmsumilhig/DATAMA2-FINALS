@@ -234,7 +234,7 @@ input {
 }
 
 button {
-  max-width: 5%; /* Set max-width to 5% for buttons */
+  max-width: 10%; /* Set max-width to 5% for buttons */
   width: 100%;
   margin: 5px 0;
   padding: 10px;
